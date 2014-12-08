@@ -1,0 +1,24 @@
+# Written by MakeHuman 1.0.2
+version v1.0.2
+tags body
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothesHideFaces True
+gendered breast-dist-min-max -0.194000
+gendered breast-trans-vert-down-up 0.758000
+gendered BreastFirmness 1.000000
+gendered BreastSize 0.903000
+gendered breast-point-min-max 0.242000
+gendered breast-volume-vert-up-down -0.162000
+macro Weight 0.097000
+macro Gender 0.000000
+macro Age 0.476000
+macro Height 0.161000
+macro Asian 0.000000
+macro African 0.000000
+macro Caucasian 1.000000
+macro Muscle 0.000000
+macro BodyProportions 0.298000
+background enabled False
+skinMaterial skins/young_asian_female/young_asian_female.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+subdivide True
